@@ -6,6 +6,7 @@ public class characterChange : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 		this.gameObject.GetComponent<Image>().sprite=HatCollision.current;
+		//transform.localScale=sliderScripts.current;
 	}
 	
 	// Update is called once per frame
