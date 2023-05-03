@@ -7,7 +7,6 @@ public class sliderScripts : MonoBehaviour {
 	private Slider vSlider;
 	public float minVal;
 	public float maxVal;
-
 	void Start () {
 	
 	vSlider = GameObject.Find("scaleSlider").GetComponent<Slider>();

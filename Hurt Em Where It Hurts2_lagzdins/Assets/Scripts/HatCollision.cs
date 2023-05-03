@@ -17,6 +17,7 @@ public class HatCollision : MonoBehaviour
    public Sprite boyAdmiral;
    public Sprite girlAdmiral;
    public static Sprite current;
+   
 	private void OnCollisionEnter2D(Collision2D collision){
     if(gender=="boy"){
 	if(collision.gameObject.name=="Tophat"){
