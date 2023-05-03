@@ -12,11 +12,12 @@
 - [x] Add hats
 - [x] Make hats draggable
 - [x] Make hats wearable
-- [ ] Add input fields
+- [x] Add input fields
 - [x] Add size bars
-- [ ] Add dropdown
+- [x] Add dropdown
+- [ ] Make player hat be transfered between scenes
 - [ ] Add score
 - [x] Fix music
-- [ ] Implement music
+- [x] Implement music
 - [ ] Add starting screen
 - [ ] Make sword shop
