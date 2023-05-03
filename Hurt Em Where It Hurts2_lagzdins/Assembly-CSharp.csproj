@@ -50,7 +50,9 @@
      <Compile Include="Assets\Scripts\Collision.cs" />
      <Compile Include="Assets\Scripts\Drag.cs" />
      <Compile Include="Assets\Scripts\HatCollision.cs" />
+     <Compile Include="Assets\Scripts\characterChange.cs" />
      <Compile Include="Assets\Scripts\dropdownScript.cs" />
+     <Compile Include="Assets\Scripts\sceneScript.cs" />
      <Compile Include="Assets\Scripts\sliderScripts.cs" />
      <None Include="Assets\test.txt" />
  <Reference Include="UnityEngine.UI">
