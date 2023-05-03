@@ -15,7 +15,7 @@
 - [x] Add input fields
 - [x] Add size bars
 - [x] Add dropdown
-- [ ] Make player hat be transfered between scenes
+- [x] Make player hat be transfered between scenes
 - [ ] Add score
 - [x] Fix music
 - [x] Implement music
