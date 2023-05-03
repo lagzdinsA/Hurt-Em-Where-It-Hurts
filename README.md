@@ -11,9 +11,12 @@
 - [x] Create background
 - [x] Add hats
 - [x] Make hats draggable
-- [ ] Make hats wearable
+- [x] Make hats wearable
 - [ ] Add input fields
-- [ ] Add size bars
+- [x] Add size bars
+- [ ] Add dropdown
 - [ ] Add score
-- [ ] Fix music
+- [x] Fix music
 - [ ] Implement music
+- [ ] Add starting screen
+- [ ] Make sword shop
